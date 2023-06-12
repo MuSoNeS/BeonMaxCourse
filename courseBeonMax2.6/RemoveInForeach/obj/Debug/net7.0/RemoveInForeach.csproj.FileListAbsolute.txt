@@ -1,0 +1,15 @@
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\bin\Debug\net7.0\RemoveInForeach.exe
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\bin\Debug\net7.0\RemoveInForeach.deps.json
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\bin\Debug\net7.0\RemoveInForeach.runtimeconfig.json
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\bin\Debug\net7.0\RemoveInForeach.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\bin\Debug\net7.0\RemoveInForeach.pdb
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\obj\Debug\net7.0\RemoveInForeach.csproj.AssemblyReference.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\obj\Debug\net7.0\RemoveInForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\obj\Debug\net7.0\RemoveInForeach.AssemblyInfoInputs.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\obj\Debug\net7.0\RemoveInForeach.AssemblyInfo.cs
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\obj\Debug\net7.0\RemoveInForeach.csproj.CoreCompileInputs.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\obj\Debug\net7.0\RemoveInForeach.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\obj\Debug\net7.0\refint\RemoveInForeach.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\obj\Debug\net7.0\RemoveInForeach.pdb
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\obj\Debug\net7.0\RemoveInForeach.genruntimeconfig.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\RemoveInForeach\obj\Debug\net7.0\ref\RemoveInForeach.dll

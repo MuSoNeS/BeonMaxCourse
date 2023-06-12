@@ -1,0 +1,45 @@
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.exe
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.deps.json
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.runtimeconfig.json
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.dll
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.pdb
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.csproj.AssemblyReference.cache
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.AssemblyInfoInputs.cache
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.AssemblyInfo.cs
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.csproj.CoreCompileInputs.cache
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.dll
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\refint\courseBeonMax.dll
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.pdb
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.genruntimeconfig.cache
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\ref\courseBeonMax.dll
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.exe
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.deps.json
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.runtimeconfig.json
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.dll
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.pdb
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.csproj.AssemblyReference.cache
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.AssemblyInfoInputs.cache
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.AssemblyInfo.cs
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.csproj.CoreCompileInputs.cache
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.dll
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\refint\courseBeonMax.dll
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.pdb
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.genruntimeconfig.cache
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\ref\courseBeonMax.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.exe
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.deps.json
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.runtimeconfig.json
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\bin\Debug\net6.0\courseBeonMax.pdb
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.csproj.AssemblyReference.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.AssemblyInfoInputs.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.AssemblyInfo.cs
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.csproj.CoreCompileInputs.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\refint\courseBeonMax.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.pdb
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\courseBeonMax.genruntimeconfig.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\courseBeonMax2.6\obj\Debug\net6.0\ref\courseBeonMax.dll

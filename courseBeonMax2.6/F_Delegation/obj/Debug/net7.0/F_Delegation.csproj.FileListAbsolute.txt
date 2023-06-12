@@ -1,0 +1,15 @@
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\bin\Debug\net7.0\F_Delegation.exe
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\bin\Debug\net7.0\F_Delegation.deps.json
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\bin\Debug\net7.0\F_Delegation.runtimeconfig.json
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\bin\Debug\net7.0\F_Delegation.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\bin\Debug\net7.0\F_Delegation.pdb
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\obj\Debug\net7.0\F_Delegation.csproj.AssemblyReference.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\obj\Debug\net7.0\F_Delegation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\obj\Debug\net7.0\F_Delegation.AssemblyInfoInputs.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\obj\Debug\net7.0\F_Delegation.AssemblyInfo.cs
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\obj\Debug\net7.0\F_Delegation.csproj.CoreCompileInputs.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\obj\Debug\net7.0\F_Delegation.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\obj\Debug\net7.0\refint\F_Delegation.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\obj\Debug\net7.0\F_Delegation.pdb
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\obj\Debug\net7.0\F_Delegation.genruntimeconfig.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\courseBeonMax2.6\F_Delegation\obj\Debug\net7.0\ref\F_Delegation.dll

@@ -1,0 +1,45 @@
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.csproj.AssemblyReference.cache
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.AssemblyInfoInputs.cache
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.AssemblyInfo.cs
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.csproj.CoreCompileInputs.cache
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.exe
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.deps.json
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.runtimeconfig.json
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.dll
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.pdb
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.dll
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\refint\assignmentsFromTheBeonMaxCourse.dll
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.pdb
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.genruntimeconfig.cache
+C:\Users\Ochra_MoonSoone\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\ref\assignmentsFromTheBeonMaxCourse.dll
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.exe
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.deps.json
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.runtimeconfig.json
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.dll
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.pdb
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.csproj.AssemblyReference.cache
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.AssemblyInfoInputs.cache
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.AssemblyInfo.cs
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.csproj.CoreCompileInputs.cache
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.dll
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\refint\assignmentsFromTheBeonMaxCourse.dll
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.pdb
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.genruntimeconfig.cache
+C:\Users\Ramil\Desktop\Задачки с курса Беонмакс\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\ref\assignmentsFromTheBeonMaxCourse.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.exe
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.deps.json
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.runtimeconfig.json
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\bin\Debug\net6.0\assignmentsFromTheBeonMaxCourse.pdb
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.csproj.AssemblyReference.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.AssemblyInfoInputs.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.AssemblyInfo.cs
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.csproj.CoreCompileInputs.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\refint\assignmentsFromTheBeonMaxCourse.dll
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.pdb
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\assignmentsFromTheBeonMaxCourse.genruntimeconfig.cache
+C:\Users\Ramil\Desktop\BeonMaxCourse\assignmentsFromTheBeonMaxCourse\assignmentsFromTheBeonMaxCourse\obj\Debug\net6.0\ref\assignmentsFromTheBeonMaxCourse.dll
